@@ -67,14 +67,14 @@ d:sprites/characters:sprites/characters:0:application/unknown:1
 t:sprites/characters/lily.atlas:sprites/characters/lily-65967250dbefa54dcdc057c2bda49abe.atlas:1795:application/unknown:1
 t:sprites/characters/rain.atlas:sprites/characters/rain-79d6e1c9c24499a32a34d28ee3aa911a.atlas:1795:application/unknown:1
 i:sprites/characters/lily.png:sprites/characters/lily-e1a54fbd67f59909b39f3a786898e4dc.png:3572:image/png:1
-i:sprites/characters/rain.png:sprites/characters/rain-f24cc73052856b7f97bb482e5c505f46.png:3056:image/png:1
+i:sprites/characters/rain.png:sprites/characters/rain-b12c3cc6cc90ded08f8e4117129cff1c.png:5568:image/png:1
 d:sprites/characters/spr:sprites/characters/spr:0:application/unknown:1
 i:sprites/characters/spr/lily_spr.png:sprites/characters/spr/lily_spr-f40ad2bd38f606439d09a1c9817d5eaf.png:1547:image/png:1
 i:sprites/characters/spr/rain_spr.png:sprites/characters/spr/rain_spr-68bf53f5b17aafd7a1b1dab4bdeb0edf.png:1650:image/png:1
 d:sprites/entities:sprites/entities:0:application/unknown:1
 d:sprites/entities/cubians:sprites/entities/cubians:0:application/unknown:1
 t:sprites/entities/cubians/cubian.atlas:sprites/entities/cubians/cubian-0221726287865023d08d2de4ad78aa8c.atlas:608:application/unknown:1
-i:sprites/entities/cubians/cubian.png:sprites/entities/cubians/cubian-12a7a8c6c5365733ef82e1d6d86ebda5.png:975:image/png:1
+i:sprites/entities/cubians/cubian.png:sprites/entities/cubians/cubian-752815324a10a34a65ee847d73fbd77d.png:1814:image/png:1
 d:sprites/entities/other:sprites/entities/other:0:application/unknown:1
 t:sprites/entities/other/fire_burst.atlas:sprites/entities/other/fire_burst-28b909b26cc1611b4460958a21000f5f.atlas:195:application/unknown:1
 i:sprites/entities/other/campfire.png:sprites/entities/other/campfire-86cb1d4f37f38ea5b7d8941fd690a058.png:433:image/png:1
