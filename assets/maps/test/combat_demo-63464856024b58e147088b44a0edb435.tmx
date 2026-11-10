@@ -54,11 +54,11 @@
 </data>
  </layer>
  <objectgroup id="3" name="Entities">
-  <object id="1" type="honedGreatsword" x="32" y="144"/>
-  <object id="2" type="armingSword" x="32.25" y="191.75"/>
-  <object id="3" type="cubianEcho" x="300" y="180"/>
-  <object id="4" type="cubianEcho" x="260" y="100"/>
-  <object id="5" type="cubianWanderer" x="167" y="161"/>
-  <object id="6" type="cubianWanderer" x="185" y="158"/>
+  <object id="1" type="HonedGreatsword" x="32" y="144"/>
+  <object id="2" type="ArmingSword" x="32.25" y="191.75"/>
+  <object id="3" type="CubianEcho" x="300" y="180"/>
+  <object id="4" type="CubianEcho" x="260" y="100"/>
+  <object id="5" type="CubianWanderer" x="167" y="161"/>
+  <object id="6" type="CubianWanderer" x="185" y="158"/>
  </objectgroup>
 </map>
