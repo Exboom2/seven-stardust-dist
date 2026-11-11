@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.10" tiledversion="1.11.2" orientation="orthogonal" renderorder="right-down" width="16" height="16" tilewidth="16" tileheight="16" infinite="0" nextlayerid="4" nextobjectid="6">
+<map version="1.10" tiledversion="1.12.2-108-g83e4cfd9f" orientation="orthogonal" renderorder="right-down" width="16" height="16" tilewidth="16" tileheight="16" infinite="0" nextlayerid="4" nextobjectid="7">
  <properties>
   <property name="startx" type="float" value="64"/>
-  <property name="starty" type="float" value="64"/>
+  <property name="starty" type="float" value="128"/>
  </properties>
  <tileset firstgid="1" source="wooded_tiles.tsx"/>
  <layer id="1" name="Tile Layer 1" width="16" height="16">
@@ -15,9 +15,9 @@
 13,13,13,1,1,13,13,1,13,13,13,1,13,1,13,13,
 1,1,1,13,1,13,13,13,1,1,1,13,1,13,1,1,
 1,13,1,1,13,13,1,1,13,1,13,1,1,1,13,1,
-1,13,13,13,1,13,13,13,13,13,1,1,13,13,13,1,
-13,13,13,13,1,13,1,13,13,13,13,1,1,1,1,1,
-13,13,1,13,13,13,13,1,1,13,1,13,1,13,13,13,
+1,13,13,13,1,13,13,21,21,21,1,1,13,13,13,1,
+13,13,13,13,1,13,1,21,21,21,13,1,1,1,1,1,
+13,13,1,13,13,13,13,21,21,21,1,13,1,13,13,13,
 13,13,1,1,13,13,1,1,1,1,1,1,1,13,13,1,
 1,1,13,1,1,1,1,1,13,1,1,1,1,13,1,13,
 1,13,1,1,13,13,13,13,1,1,13,13,13,1,13,13,
@@ -29,12 +29,12 @@
   <data encoding="csv">
 4,5,4,5,4,5,4,5,4,5,4,5,4,5,4,5,
 14,15,14,15,14,15,14,15,14,15,14,15,14,15,14,15,
-4,5,0,0,4,5,0,0,0,0,0,0,0,0,4,5,
-14,15,4,5,14,15,0,0,0,0,0,0,0,0,14,15,
-4,5,14,15,0,4,5,0,4,5,0,0,0,0,4,5,
-14,15,4,5,0,14,15,0,14,15,0,0,0,0,14,15,
-4,5,14,15,0,0,0,0,0,4,5,0,0,0,4,5,
-14,15,0,0,0,0,0,0,0,14,15,0,0,0,14,15,
+4,5,0,31,32,33,0,0,0,0,0,0,0,0,4,5,
+14,15,0,41,42,43,0,0,0,0,0,0,0,0,14,15,
+4,5,0,51,52,53,0,0,4,5,0,0,0,0,4,5,
+14,15,0,0,0,0,0,0,14,15,0,0,0,0,14,15,
+4,5,0,0,0,0,0,0,0,0,0,0,0,0,4,5,
+14,15,0,0,0,0,0,0,0,0,0,0,0,0,14,15,
 4,5,0,0,0,0,0,0,0,0,0,0,0,0,4,5,
 14,15,0,0,0,0,0,0,0,0,0,0,0,0,14,15,
 4,5,0,0,0,0,0,0,0,0,0,0,0,0,4,5,
@@ -48,7 +48,8 @@
  <objectgroup id="3" name="Entities">
   <object id="1" name="Hunter" type="NpcHunter" x="128" y="128"/>
   <object id="2" name="Bed" type="TestAnchor" x="64" y="80"/>
-  <object id="4" name="Camp" type="TestAnchor" x="160" y="96"/>
+  <object id="4" name="Fletching Table" type="FletchingTable" x="160" y="104"/>
   <object id="5" name="Tavern" type="TestAnchor" x="129" y="164"/>
+  <object id="6" name="Range" type="TestAnchor" x="66.4014" y="180.509"/>
  </objectgroup>
 </map>

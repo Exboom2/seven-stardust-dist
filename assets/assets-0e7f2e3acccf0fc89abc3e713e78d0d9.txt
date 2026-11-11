@@ -34,10 +34,13 @@ sprites/characters/rain.atlas
 sprites/characters/rain.png
 sprites/characters/spr/lily_spr.png
 sprites/characters/spr/rain_spr.png
+sprites/entities/anchors/fletching_table.png
 sprites/entities/breakables/smallStone.png
 sprites/entities/breakables/westernTree.png
 sprites/entities/cubians/cubian.atlas
 sprites/entities/cubians/cubian.png
+sprites/entities/cubians/cubianHunter.atlas
+sprites/entities/cubians/cubianHunter.png
 sprites/entities/other/campfire.atlas
 sprites/entities/other/campfire.png
 sprites/entities/other/fire_burst.atlas
