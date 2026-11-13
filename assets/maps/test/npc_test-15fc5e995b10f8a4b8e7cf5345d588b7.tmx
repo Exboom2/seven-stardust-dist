@@ -46,7 +46,14 @@
 </data>
  </layer>
  <objectgroup id="3" name="Entities">
-  <object id="1" name="Hunter" type="NpcHunter" x="128" y="128"/>
+  <object id="1" name="Hunter" type="NpcHunter" x="128" y="128">
+   <properties>
+    <property name="archeryRangeId" type="int" value="6"/>
+    <property name="fletchingTableId" type="int" value="4"/>
+    <property name="homeBedId" type="int" value="2"/>
+    <property name="villageTavernId" type="int" value="5"/>
+   </properties>
+  </object>
   <object id="2" name="Bed" type="TestAnchor" x="64" y="80"/>
   <object id="4" name="Fletching Table" type="FletchingTable" x="160" y="104"/>
   <object id="5" name="Tavern" type="TestAnchor" x="129" y="164"/>
