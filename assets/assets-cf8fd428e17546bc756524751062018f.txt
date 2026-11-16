@@ -18,6 +18,7 @@ fonts/font10.png
 fonts/font16.fnt
 fonts/font16.png
 maps/test/combat_demo.tmx
+maps/test/items_test.tmx
 maps/test/npc_test.tmx
 maps/test/wooded.tmx
 maps/test/wooded_tiles.png
@@ -47,10 +48,12 @@ sprites/entities/other/fire_burst.atlas
 sprites/entities/other/fire_burst.png
 sprites/fog/dark_fog.png
 sprites/fog/fog.png
-sprites/items/large/arming_sword.atlas
-sprites/items/large/arming_sword.png
-sprites/items/large/honed_greatsword.atlas
-sprites/items/large/honed_greatsword.png
+sprites/items/keys/elden_scroll.png
+sprites/items/materials/boombit.png
+sprites/items/weapons/arming_sword.atlas
+sprites/items/weapons/arming_sword.png
+sprites/items/weapons/honed_greatsword.atlas
+sprites/items/weapons/honed_greatsword.png
 sprites/shadow.png
 ui/bar_base.png
 ui/bar_hp.png
