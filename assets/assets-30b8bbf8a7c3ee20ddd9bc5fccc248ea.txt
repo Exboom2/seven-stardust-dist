@@ -18,6 +18,7 @@ fonts/font10.png
 fonts/font16.fnt
 fonts/font16.png
 maps/test/combat_demo.tmx
+maps/test/entity_gallery.tmx
 maps/test/items_test.tmx
 maps/test/npc_test.tmx
 maps/test/wooded.tmx
