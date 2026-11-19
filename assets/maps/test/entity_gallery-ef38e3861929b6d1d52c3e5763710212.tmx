@@ -43,7 +43,7 @@
     <property name="villageTavernId" type="int" value="1"/>
    </properties>
   </object>
-  <object id="5" name="Small Stone" type="SmallStone" x="0" y="34" width="16" height="16"/>
+  <object id="5" name="Small Stone" type="ssd:small_stone" x="0" y="34" width="16" height="16"/>
   <object id="6" name="Western Tree" type="ssd:western_tree" x="32" y="752" width="16" height="16"/>
  </objectgroup>
  <layer id="3" name="Tile Layer 1" width="50" height="50">

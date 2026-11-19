@@ -67,6 +67,8 @@ ui/menu.png
 ui/menu_sp.png
 ui/parity.png
 ui/prosperity.png
+ui/sd_empty.png
+ui/sd_full.png
 ui/stardust_empty.png
 ui/stardust_full.png
 ui/stardust_full_2.png

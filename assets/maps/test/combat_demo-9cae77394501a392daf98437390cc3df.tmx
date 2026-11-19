@@ -54,19 +54,19 @@
 </data>
  </layer>
  <objectgroup id="3" name="Entities">
-  <object id="1" type="WeaponEntity" x="32" y="144">
+  <object id="1" type="ssd:weapon" x="32" y="144">
    <properties>
     <property name="itemId" value="ssd:honed_greatsword"/>
    </properties>
   </object>
-  <object id="2" type="WeaponEntity" x="32.25" y="191.75">
+  <object id="2" type="ssd:weapon" x="32.25" y="191.75">
    <properties>
     <property name="itemId" value="ssd:arming_sword"/>
    </properties>
   </object>
-  <object id="3" type="CubianEcho" x="300" y="180"/>
-  <object id="4" type="CubianEcho" x="260" y="100"/>
-  <object id="5" type="CubianWanderer" x="167" y="161"/>
-  <object id="6" type="CubianWanderer" x="185" y="158"/>
+  <object id="3" type="ssd:cubian_echo" x="300" y="180"/>
+  <object id="4" type="ssd:cubian_echo" x="260" y="100"/>
+  <object id="5" type="ssd:cubian_wanderer" x="167" y="161"/>
+  <object id="6" type="ssd:cubian_wanderer" x="185" y="158"/>
  </objectgroup>
 </map>
