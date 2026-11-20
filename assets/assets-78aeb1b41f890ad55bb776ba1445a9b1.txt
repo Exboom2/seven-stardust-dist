@@ -74,5 +74,7 @@ ui/stardust_full.png
 ui/stardust_full_2.png
 ui/tile_no.png
 ui/tile_yes.png
+ui/timing_false.png
+ui/timing_true.png
 ui/title.png
 version.txt

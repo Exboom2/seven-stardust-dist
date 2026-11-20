@@ -21,6 +21,7 @@ i:ui/stardust_full.png:ui/stardust_full-f10f4b4171f80873e516935d1f1246bc.png:385
 i:ui/sd_empty.png:ui/sd_empty-6e1a97f7781c8b923fa3f77fbe6e7fa7.png:68:image/png:1
 i:ui/tile_no.png:ui/tile_no-b06c3e124887bedb10075254935f7925.png:171:image/png:1
 i:ui/stardust_full_2.png:ui/stardust_full_2-d4cceb0acce87a6fd1edbfea41d1fd68.png:414:image/png:1
+i:ui/timing_false.png:ui/timing_false-7f853db6bc7a8a85d6ac5c19b89f7224.png:102:image/png:1
 i:ui/exboom.png:ui/exboom-3875a0c438d4030e6adea0c71885cb7e.png:5396:image/png:1
 i:ui/bar_hp.png:ui/bar_hp-1d1beb8bbd4a8401f4f564c18687add7.png:111:image/png:1
 i:ui/title.png:ui/title-fb23571a1ac8f5ff13c7e2cb2b257aef.png:623:image/png:1
@@ -33,6 +34,7 @@ i:ui/parity.png:ui/parity-f3ec0ade01d716df9a94639d5d0c7cf0.png:707:image/png:1
 i:ui/bar_base.png:ui/bar_base-1ee18410d18257889a5c74de7fa713af.png:112:image/png:1
 i:ui/tile_yes.png:ui/tile_yes-a21fd57a1cff4ec061354eabcc2bec33.png:197:image/png:1
 i:ui/logo_old.png:ui/logo_old-9bbe08ee4302383ef563046864f0d3c1.png:7086:image/png:1
+i:ui/timing_true.png:ui/timing_true-dd6d9d9a01604ee4e8b2fb5ba5d48ecb.png:117:image/png:1
 d:maps:maps:0:application/unknown:1
 d:maps/test:maps/test:0:application/unknown:1
 b:maps/test/wooded.tmx:maps/test/wooded-854ccb06b107052929f3b23786f72db2.tmx:150339:application/unknown:1
@@ -59,7 +61,7 @@ a:audio/sfx/click.wav:audio/sfx/click-6c7767887f75db1d5e7cd9508e07bace.wav:10984
 a:audio/sfx/fireball.wav:audio/sfx/fireball-3365cb7ba6e364ca682d5275dde1dc8e.wav:294990:audio/x-wav:1
 a:audio/sfx/pickup_sp.wav:audio/sfx/pickup_sp-a187c9dea5ea5758cb0cfc4c29564ab7.wav:1059918:audio/x-wav:1
 a:audio/sfx/elden.mp3:audio/sfx/elden-7d183da771cc48621e8f61248163ae42.mp3:6815242:audio/mpeg:1
-t:assets.txt:assets-34d57887dc42a3dc41eed7a5acbfe04d.txt:1963:text/plain:1
+t:assets.txt:assets-78aeb1b41f890ad55bb776ba1445a9b1.txt:2002:text/plain:1
 d:sprites:sprites:0:application/unknown:1
 i:sprites/shadow.png:sprites/shadow-ef0740b9f4f0fd21322aff8120a25113.png:143:image/png:1
 d:sprites/items:sprites/items:0:application/unknown:1
